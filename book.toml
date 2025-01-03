@@ -1,0 +1,16 @@
+[book]
+authors = ["Defender"]
+language = "en"
+multilingual = false
+src = "src"
+title = "January 2025"
+
+[output.html]
+edit-url-template = "https://github.com/DefenderOfBasic/january-2025/edit/main/{path}"
+
+[output.html.print]
+enable = false 
+
+[output.html.fold]
+enable = true
+level = 0 
