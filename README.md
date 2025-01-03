@@ -1,4 +1,4 @@
-Book URL: https://defenderofbasic.github.io/january-2025/
+## Book URL: https://defenderofbasic.github.io/january-2025/
 
 ## Local setup
 
